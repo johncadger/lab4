@@ -6,7 +6,13 @@
 </head>
 <body>
 
-<a href="http://1204848-lab1.azurewebsites.net/index.php?sectionID=1">Jack the Ripper</a><br /><br />
+<a href="http://1204848-lab1.azurewebsites.net/index.php?topicID=1">Scotland</a><br /><br />
+<a href="http://1204848-lab1.azurewebsites.net/index.php?topicID=2">HMS Titanic</a><br /><br />
+<a href="http://1204848-lab1.azurewebsites.net/index.php?topicID=3">World War II</a><br /><br />
+<a href="http://1204848-lab1.azurewebsites.net/index.php?topicID=4">Maple Syrup</a><br /><br />
+<a href="http://1204848-lab1.azurewebsites.net/index.php?topicID=5">Jack the Ripper</a><br /><br />
+<a href="http://1204848-lab1.azurewebsites.net/index.php?topicID=6">Greek Mythology</a><br /><br />
+<a href="http://1204848-lab1.azurewebsites.net/index.php?topicID=7">San Francisco</a><br /><br />
 
 </body>
 </html>
